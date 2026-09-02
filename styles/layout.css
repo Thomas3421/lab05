@@ -1,0 +1,11 @@
+aside:hover {
+    display: block;
+}
+
+.menu {
+    display: inline-block;
+}
+
+nav ul {
+    list-style: none;
+}
